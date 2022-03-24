@@ -7,12 +7,12 @@
   "aboutMe": {
     "profile": {
       "name": "David",
-      "surnames": "Bonilla Fuertezzz",
+      "surnames": "Bonilla Fuertes",
       "title": "CEO at Manfred",
       "description": "Candela's Husband. Proud Daddy of Irene and Dani. Slow Marathoner. Jacobin. Del Atleti. True Galician. Fighting the Status Quo since 1977.\n\nI have been developing software for almost two decades, occupying positions along the entire software value-chain: product design, marketing, sales, team/departments/companies management... but I believe the role where my vocation, my skills, and needs of most companies match is the **ability to build working digital assets**. ",
       "avatar": {
         "alt": "-Z8bTzmY_400x400.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/812e14fd-cd23-4681-9e8b-da30758e8ba9_9e64de34-18e1-412c-b.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/337cef41-c6b1-42c8-bf46-3ac17bb33b05_812e14fd-cd23-4681-9.jpeg"
       },
       "location": {
         "notes": "A Coruña, Galicia, Spain"
@@ -52,17 +52,17 @@
     ],
     "recommendations": [
       {
-        "title": "How Prince of Persia Defeated Apple II's Memory Limitations",
+        "title": "The secret to making money online",
         "type": "reading",
-        "URL": "https://www.youtube.com/watch?v=sw0VfmXKq54",
+        "URL": "https://www.youtube.com/watch?v=0CDXJ6bMkMY",
         "authors": [
           {
-            "name": "Ars",
-            "surnames": "Technica",
+            "name": "David",
+            "surnames": "Heinemeier Hansson",
             "title": "Author"
           }
         ],
-        "summary": "Ars Technica sat down with Prince of Persia creator **Jordan Mechner** to learn about the challenges he faced while bringing his ambitious vision for the game to life. \n\nAs the 1980's wound down, Mechner found himself fighting against not only the limitations of the Apple II hardware but the impending death of the platform itself.\n\nDecades later, Prince of Persia remains a classic example of how the constraints of early gaming led to solutions that advanced the artform."
+        "summary": "You can download the slides from here: \n[http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf](http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf)\n"
       },
       {
         "title": "Sid Meier's Memoir",
@@ -78,17 +78,17 @@
         "summary": "The life and career of the legendary developer celebrated as the “godfather of computer gaming” and creator of Civilization, featuring his rules of good game design."
       },
       {
-        "title": "The secret to making money online",
+        "title": "How Prince of Persia Defeated Apple II's Memory Limitations",
         "type": "reading",
-        "URL": "https://www.youtube.com/watch?v=0CDXJ6bMkMY",
+        "URL": "https://www.youtube.com/watch?v=sw0VfmXKq54",
         "authors": [
           {
-            "name": "David",
-            "surnames": "Heinemeier Hansson",
+            "name": "Ars",
+            "surnames": "Technica",
             "title": "Author"
           }
         ],
-        "summary": "You can download the slides from here: \n[http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf](http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf)\n"
+        "summary": "Ars Technica sat down with Prince of Persia creator **Jordan Mechner** to learn about the challenges he faced while bringing his ambitious vision for the game to life. \n\nAs the 1980's wound down, Mechner found himself fighting against not only the limitations of the Apple II hardware but the impending death of the platform itself.\n\nDecades later, Prince of Persia remains a classic example of how the constraints of early gaming led to solutions that advanced the artform."
       }
     ]
   },
@@ -99,7 +99,7 @@
           "name": "Atlassian",
           "image": {
             "alt": "atlassian-logo-DF2FCF6E4D-seeklogo.com.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5dcd1117-5548-4964-8094-9282e9d8759c_d2ae97d4-6040-45a2-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/491cc924-7999-4035-8c3c-0fc1bf59c1d6_5dcd1117-5548-4964-8.png"
           }
         },
         "roles": [
@@ -118,10 +118,32 @@
       },
       {
         "organization": {
+          "name": "Otogami",
+          "image": {
+            "alt": "twitter_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/198a6a9c-d213-4af9-a5cf-85625c2440ac_0f53b041-28ee-446f-b.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Founder and CEO",
+            "startDate": "2014-01-01",
+            "finishDate": "2016-12-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Manfred",
           "image": {
             "alt": "logo-manfred-sponsor.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/369adf1c-262d-400d-8cc1-c218f07cac21_a313e1c0-a64a-42b9-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/86ae9b6d-b3ea-48c9-9a3e-73aff55880cf_369adf1c-262d-400d-8.png"
           },
           "URL": "https://www.getmanfred.com/"
         },
@@ -161,32 +183,10 @@
       },
       {
         "organization": {
-          "name": "Otogami",
-          "image": {
-            "alt": "twitter_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0f53b041-28ee-446f-b645-e1d7d20092bb_421c3dd6-aa89-4fe9-a.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Founder and CEO",
-            "startDate": "2014-01-01",
-            "finishDate": "2016-12-01",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Comalatech",
           "image": {
             "alt": "Comalatech-Solid-RGB-1024x268.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/20a67e1d-5346-417d-9e22-52e051e069c6_296f1afc-8e98-400f-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/4a0f2150-2e38-4bc9-bcbb-bd0a07f26565_20a67e1d-5346-417d-9.png"
           },
           "URL": "https://www.comalatech.com/"
         },
@@ -197,19 +197,19 @@
             "finishDate": "2018-06-01",
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "Atlassian",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
                 "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Atlassian",
                 "type": "technology"
               }
             ]
@@ -225,7 +225,7 @@
           "URL": "https://www.bonilista.com/",
           "image": {
             "alt": "Color.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fafb5ce0-7896-4901-bf49-566b587010cc_833a225d-3639-4392-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2ee2984c-dfff-4aa3-97f6-52cc8b65d58f_fafb5ce0-7896-4901-b.png"
           }
         },
         "type": "sideProject",
@@ -251,7 +251,7 @@
           "URL": "https://www.stockholmmarathon.se/",
           "image": {
             "alt": "IMG_7232.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/45e92c74-5774-479b-8df4-28361212d22d_5cffd8ed-878b-402d-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1828986f-784e-44e3-9b3f-2b2b0569f1c1_45e92c74-5774-479b-8.jpg"
           }
         },
         "type": "achievement",
@@ -275,7 +275,7 @@
           "URL": "https://bcert.me/bc/html/show-badge.html?b=ifeabpt",
           "image": {
             "alt": "csm.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f3a69646-4ef8-41ec-8902-9ead6c0ca1f8_ab5abdea-2ee8-42a3-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e4a11b67-5fb7-445f-9375-b3e34231a9b1_f3a69646-4ef8-41ec-8.png"
           }
         }
       },
@@ -290,7 +290,7 @@
           "description": "Unfinished Studies.\n\nI combined studies and work... and work won :)",
           "image": {
             "alt": "202-nova-marca-uoc.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/dc975dca-e1ae-4979-9ba7-f3b8bef509fa_c2aa4b76-68ed-4324-a.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/f6c7906a-32a3-4175-bdec-c0afc8736ff3_dc975dca-e1ae-4979-9.jpeg"
           }
         },
         "linkedCompetences": [
